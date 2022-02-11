@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 /*center div*/
 .center{
     display: flex;
